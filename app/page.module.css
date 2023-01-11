@@ -1,0 +1,9 @@
+.mainContainer {
+  height: 100%;
+  background-color: rgb(71, 61, 61);
+}
+.mainHome {
+  display: flex;
+  background-color: rgb(100, 119, 119);
+  height: 10;
+}
